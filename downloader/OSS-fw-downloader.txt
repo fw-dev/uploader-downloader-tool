@@ -1,0 +1,37 @@
+List of Open Source Software used within the FileWave Downloader Tool:
+
+bzip2	1.0.3	https://github.com/asimonov-im/bzip2/blob/master/LICENSE	https://github.com/asimonov-im/bzip2
+e2fsprogs	1.39	GPLv2	http://e2fsprogs.sourceforge.net/
+libffi	3.2.1	MIT	https://github.com/libffi/libffi
+Kerberos V5	1.6.1	http://web.mit.edu/kerberos/www/krb5-1.6/README-1.6.1.txt	http://web.mit.edu/kerberos/
+keyutils	1.2	LGPLv2.1	https://people.redhat.com/~dhowells/keyutils/
+libselinux	1.33.4	https://github.com/SELinuxProject/selinux/blob/master/libselinux/LICENSE	https://selinuxproject.org
+libsepol	1.15.2	LGPLv2.1	https://selinuxproject.org
+ncurses	5.5	http://invisible-island.net/ncurses/ncurses-license.html	http://invisible-island.net/ncurses/ncurses.html
+OpenSSL	1.0.1e	https://www.openssl.org/source/license.html	https://github.com/openssl/openssl
+Python	2.7.13	PSF	http://python.org
+Python - cffi	1.10.0	MIT	https://bitbucket.org/cffi/cffi
+Python - cryptography	1.8.1	BSD	https://github.com/pyca/cryptography
+Python - paramiko	2.1.2	LGPLv2.1	http://www.paramiko.org/
+Python - pysftp	0.2.9	BSD	https://bitbucket.org/dundeemt/pysftp
+readline	5.1	GPLv3	https://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
+zlib	1.2.3	http://www.zlib.net/zlib_license.html	http://www.zlib.net
+
+Licenses:
+BSD - https://opensource.org/licenses/BSD-3-Clause
+GPLv2 - https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+GPLv3 - https://www.gnu.org/licenses/gpl-3.0.en.html
+LGPLv2.1 - https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+MIT - https://opensource.org/licenses/MIT
+PSF - https://opensource.org/licenses/Python-2.0
+
+To receive a copy of the Open Source code we use in our products please send us a written request that includes your name, address and an indication of the source code modules you require. The written request should be sent to: 
+
+Open Source Requests 
+FileWave (Europe) GmbH 
+St. Gallerstrasse 1 
+9500, Wil 
+Switzerland 
+
+opensource@filewave.com
+
